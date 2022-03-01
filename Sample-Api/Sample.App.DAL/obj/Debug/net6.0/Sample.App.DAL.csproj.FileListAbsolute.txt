@@ -1,0 +1,17 @@
+E:\work my own\TestProject\Sample\Sample.App.DAL\obj\Debug\net6.0\Sample.App.DAL.csproj.AssemblyReference.cache
+E:\work my own\TestProject\Sample\Sample.App.DAL\obj\Debug\net6.0\Sample.App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\work my own\TestProject\Sample\Sample.App.DAL\obj\Debug\net6.0\Sample.App.DAL.AssemblyInfoInputs.cache
+E:\work my own\TestProject\Sample\Sample.App.DAL\obj\Debug\net6.0\Sample.App.DAL.AssemblyInfo.cs
+E:\work my own\TestProject\Sample\Sample.App.DAL\obj\Debug\net6.0\Sample.App.DAL.csproj.CoreCompileInputs.cache
+E:\work my own\TestProject\Sample\Sample.App.DAL\bin\Debug\net6.0\Sample.App.DAL.deps.json
+E:\work my own\TestProject\Sample\Sample.App.DAL\bin\Debug\net6.0\Sample.App.DAL.dll
+E:\work my own\TestProject\Sample\Sample.App.DAL\bin\Debug\net6.0\ref\Sample.App.DAL.dll
+E:\work my own\TestProject\Sample\Sample.App.DAL\bin\Debug\net6.0\Sample.App.DAL.pdb
+E:\work my own\TestProject\Sample\Sample.App.DAL\bin\Debug\net6.0\Sample.App.Domain.dll
+E:\work my own\TestProject\Sample\Sample.App.DAL\bin\Debug\net6.0\Sample.App.Domain.pdb
+E:\work my own\TestProject\Sample\Sample.App.DAL\obj\Debug\net6.0\Sample.App.DAL.csproj.CopyComplete
+E:\work my own\TestProject\Sample\Sample.App.DAL\obj\Debug\net6.0\Sample.App.DAL.dll
+E:\work my own\TestProject\Sample\Sample.App.DAL\obj\Debug\net6.0\ref\Sample.App.DAL.dll
+E:\work my own\TestProject\Sample\Sample.App.DAL\obj\Debug\net6.0\Sample.App.DAL.pdb
+E:\work my own\TestProject\Sample\Sample.App.DAL\bin\Debug\net6.0\Sample.App.DAL.runtimeconfig.json
+E:\work my own\TestProject\Sample\Sample.App.DAL\obj\Debug\net6.0\Sample.App.DAL.genruntimeconfig.cache

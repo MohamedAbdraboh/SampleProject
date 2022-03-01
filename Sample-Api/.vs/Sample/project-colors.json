@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dce14d76-df6c-4b63-924d-8dedbffa7b61": {
+      "ProjectGuid": "dce14d76-df6c-4b63-924d-8dedbffa7b61",
+      "DisplayName": "Sample.App.BLL",
+      "ColorIndex": 0
+    },
+    "faf25f4f-6aa9-4bda-ac98-2f3efa89ee30": {
+      "ProjectGuid": "faf25f4f-6aa9-4bda-ac98-2f3efa89ee30",
+      "DisplayName": "Sample.App.DAL",
+      "ColorIndex": 1
+    },
+    "3478a3b8-99b8-4720-9bd6-6d1234285057": {
+      "ProjectGuid": "3478a3b8-99b8-4720-9bd6-6d1234285057",
+      "DisplayName": "Sample.App.Api",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bb63c11d-27fc-4e4e-a9f0-99e52c5af8fa": {
+      "ProjectGuid": "bb63c11d-27fc-4e4e-a9f0-99e52c5af8fa",
+      "DisplayName": "Sample.App.Domain",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

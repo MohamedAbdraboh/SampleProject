@@ -1,0 +1,11 @@
+E:\work my own\TestProject\Sample\Sample.App.Domain\obj\Debug\net6.0\Sample.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\work my own\TestProject\Sample\Sample.App.Domain\obj\Debug\net6.0\Sample.App.Domain.AssemblyInfoInputs.cache
+E:\work my own\TestProject\Sample\Sample.App.Domain\obj\Debug\net6.0\Sample.App.Domain.AssemblyInfo.cs
+E:\work my own\TestProject\Sample\Sample.App.Domain\obj\Debug\net6.0\Sample.App.Domain.csproj.CoreCompileInputs.cache
+E:\work my own\TestProject\Sample\Sample.App.Domain\bin\Debug\net6.0\Sample.App.Domain.deps.json
+E:\work my own\TestProject\Sample\Sample.App.Domain\bin\Debug\net6.0\Sample.App.Domain.dll
+E:\work my own\TestProject\Sample\Sample.App.Domain\bin\Debug\net6.0\ref\Sample.App.Domain.dll
+E:\work my own\TestProject\Sample\Sample.App.Domain\bin\Debug\net6.0\Sample.App.Domain.pdb
+E:\work my own\TestProject\Sample\Sample.App.Domain\obj\Debug\net6.0\Sample.App.Domain.dll
+E:\work my own\TestProject\Sample\Sample.App.Domain\obj\Debug\net6.0\ref\Sample.App.Domain.dll
+E:\work my own\TestProject\Sample\Sample.App.Domain\obj\Debug\net6.0\Sample.App.Domain.pdb

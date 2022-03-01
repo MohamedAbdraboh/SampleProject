@@ -1,0 +1,17 @@
+E:\work my own\TestProject\Sample\Sample.App.BLL\obj\Debug\net6.0\Sample.App.BLL.csproj.AssemblyReference.cache
+E:\work my own\TestProject\Sample\Sample.App.BLL\obj\Debug\net6.0\Sample.App.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\work my own\TestProject\Sample\Sample.App.BLL\obj\Debug\net6.0\Sample.App.BLL.AssemblyInfoInputs.cache
+E:\work my own\TestProject\Sample\Sample.App.BLL\obj\Debug\net6.0\Sample.App.BLL.AssemblyInfo.cs
+E:\work my own\TestProject\Sample\Sample.App.BLL\obj\Debug\net6.0\Sample.App.BLL.csproj.CoreCompileInputs.cache
+E:\work my own\TestProject\Sample\Sample.App.BLL\bin\Debug\net6.0\Sample.App.BLL.deps.json
+E:\work my own\TestProject\Sample\Sample.App.BLL\bin\Debug\net6.0\Sample.App.BLL.dll
+E:\work my own\TestProject\Sample\Sample.App.BLL\bin\Debug\net6.0\ref\Sample.App.BLL.dll
+E:\work my own\TestProject\Sample\Sample.App.BLL\bin\Debug\net6.0\Sample.App.BLL.pdb
+E:\work my own\TestProject\Sample\Sample.App.BLL\bin\Debug\net6.0\Sample.App.DAL.dll
+E:\work my own\TestProject\Sample\Sample.App.BLL\bin\Debug\net6.0\Sample.App.Domain.dll
+E:\work my own\TestProject\Sample\Sample.App.BLL\bin\Debug\net6.0\Sample.App.DAL.pdb
+E:\work my own\TestProject\Sample\Sample.App.BLL\bin\Debug\net6.0\Sample.App.Domain.pdb
+E:\work my own\TestProject\Sample\Sample.App.BLL\obj\Debug\net6.0\Sample.App.BLL.csproj.CopyComplete
+E:\work my own\TestProject\Sample\Sample.App.BLL\obj\Debug\net6.0\Sample.App.BLL.dll
+E:\work my own\TestProject\Sample\Sample.App.BLL\obj\Debug\net6.0\ref\Sample.App.BLL.dll
+E:\work my own\TestProject\Sample\Sample.App.BLL\obj\Debug\net6.0\Sample.App.BLL.pdb
